@@ -4,4 +4,4 @@ It has a visually appealing design with images, fonts, and basic login interacti
 # Built with
  Java in IntelliJ IDEA
 # Contact
-For more information, please free to contact LinkedIn www.linkedin.com/in/sima-rai/
+For more information, please free to contact me on LinkedIn www.linkedin.com/in/sima-rai/
